@@ -128,7 +128,7 @@ C. Voting
    second meeting with the same agenda can be called after two weeks
    to which quorum will become 1/2 of all voting members.
 
-3. Except as provided in Section (E)(2)(3) and (F)(1), decisions
+3. Except as provided in Section (E)(2)(iii) and (F)(1), decisions
    by vote at a meeting shall require a simple majority vote of
    those in attendance, provided quorum is met. Decisions made by
    electronic vote without a meeting shall require a simple
